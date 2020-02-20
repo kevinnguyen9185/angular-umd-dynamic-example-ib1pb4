@@ -1,8 +1,8 @@
 [
     {
         "path": "moduleA",
-        "location": "./assets/modulea.umd.js",
-        "moduleName": "ModuleaModule",
+        "location": "./assets/custom-sample.umd.js",
+        "moduleName": "CustomSampleModule",
         "description": "clarity form",
         "registered": true
     },
